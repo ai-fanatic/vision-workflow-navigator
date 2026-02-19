@@ -1,6 +1,6 @@
 # Vision-to-Workflow UI Navigator
 
-**Google Gemini Live Agent Challenge** — Demo-ready submission
+**Google Gemini Live Agent Challenge** | [View on GitHub](https://github.com/ai-fanatic/vision-workflow-navigator)
 
 ## What It Does
 
